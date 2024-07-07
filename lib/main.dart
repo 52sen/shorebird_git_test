@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: '릴리즈 자동화'),
+      home: const MyHomePage(title: '릴리즈 자동dfadf화'),
     );
   }
 }
